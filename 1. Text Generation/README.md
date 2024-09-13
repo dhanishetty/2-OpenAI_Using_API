@@ -1,5 +1,5 @@
 ---
-title: Text-generation by multiple models using API
+title: OpenAI API - Text generation
 emoji: 🦀
 colorFrom: gray
 colorTo: blue
